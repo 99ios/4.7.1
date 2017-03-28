@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>4.7.1.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>attributesOfItemAtPath:方法.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>setAttributes:ofItemAtPath:error:方法.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>基本操作.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>文件的复制、移动、重命名与删除.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>C0F29C561E8A39FE00F207C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0F29C641E8A3A1400F207C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0F29C6F1E8A3A2A00F207C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0F29C7A1E8A3A4E00F207C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C0F29C851E8A3B8400F207C6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
